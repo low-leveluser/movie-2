@@ -1,0 +1,24 @@
+*,
+html,
+body {
+    font-family: Inter, sans-serif;
+    padding: 0;
+    box-sizing: border-box;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.ant-spin-spinning {
+    position: absolute;
+    top: 180%;
+    left: 50%;
+    display: inline-block;
+    opacity: 1;
+}
+
+.ant-tabs-content-holder {
+    width: 100%;
+}
+.ant-pagination{
+    text-align: center;
+}
